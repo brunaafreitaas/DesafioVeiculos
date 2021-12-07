@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace teste_veiculos_2
+{
+    public class Modelo
+    {
+        public int Codigo { get; set; }
+        public string Nome { get; set; }
+        public Marca Marca { get; set; }
+
+
+    }
+}

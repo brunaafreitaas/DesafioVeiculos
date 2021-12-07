@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="teste_veiculos_2.Aviao">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAIAAAAAEAgAAAAAAAAAAAAIAAAAAAAAAEIAA=</HashCode>
+      <FileName>Aviao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.AviaoGuerra">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIEAAAAAAgAAAAAAAAAAAAIAAAAAAAAAEIAA=</HashCode>
+      <FileName>AviaoGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.Caminhao">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAAIAAAAEAggBBAAAAAAAAEAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Caminhao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.Carro">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAEAgAAAAAAAAAAACAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.Form1" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xOXTcpYpCiAYRCGIsn4oSbGBkwJ3ENGggQbEZQhFno=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste_veiculos_2.Marca">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Marca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste_veiculos_2.Modelo">
+    <Position X="24.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste_veiculos_2.Moto">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.Navio">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAIAA=</HashCode>
+      <FileName>Navio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.NavioGuerra">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAIAA=</HashCode>
+      <FileName>NavioGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.Onibus">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAEAgABAAQAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Onibus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="teste_veiculos_2.Program" Collapsed="true">
+    <Position X="21" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste_veiculos_2.Trem">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAABAEAgAAAAAAAAIAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Trem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.256" />
+  </Class>
+  <Class Name="teste_veiculos_2.Veiculo">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEgAAAAAAAAAAAAAIAAAAIAAAAAACAAgA=</HashCode>
+      <FileName>Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste_veiculos_2.Properties.Resources" Collapsed="true">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teste_veiculos_2.Properties.Settings" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="teste_veiculos_2.IAviao">
+    <Position X="21" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAgAAAA=</HashCode>
+      <FileName>IAviao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="teste_veiculos_2.ICapPassageiros">
+    <Position X="22.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ICapPassageiros.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="teste_veiculos_2.IGuerra">
+    <Position X="24.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>IGuerra.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="teste_veiculos_2.ILimpador">
+    <Position X="21" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ILimpador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="teste_veiculos_2.INavio">
+    <Position X="22.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INavio.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

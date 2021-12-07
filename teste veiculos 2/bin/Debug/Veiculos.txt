@@ -1,0 +1,11 @@
+Carro|Car 1|54|4|4|0|Gol|0|VOLKSWAGEN
+Caminhao|truck 1|35|2|4|0|4500|0|Carreta|0|MERCEDES-BENZ
+Onibus|Bus 1|44|40|3|False|0|Micro|0|MERCEDES-BENZ
+Moto|Motoca 1|104|2|0|Trail|0|DUCATTI
+Aviao|Plane 1|404|40|0|Cargueiro|0|EMBRAER
+AviaoGuerra|Fighter 1|1004|2|0|Caça|0|EMBRAER
+Trem|Train 1|104|100|15|0|Cargueiro|0|GE TRANSPORTATION
+Navio|Ship 1|84|120|0|Escuna|0|MSC
+NavioGuerra|War Ship 1|154|25|0|Contratorpedeiro|0|Marca 1
+Pedagio|1|Imigrantes|139
+Pedagio|2 |Rodoanel|69,5
